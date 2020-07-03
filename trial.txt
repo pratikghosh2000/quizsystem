@@ -1,0 +1,9 @@
+Text Books :
+1. Power Electronics By M. H. Rashid, Pearson Education, 3rd Edition, 2014.
+2. Power Electronics by P S Bhimbhra, Khanna Publishers, 4th Edition, 2012.
+Reference Books :
+1. Power Electronics by M. D. Singh and K. B. Khanchandani, Tata McGraw-Hill publishers, Second Edition, 2007.
+2. Power Electronics, Converters, Applications and Design N. Mohan, Undeland& Robbins, John Wiley and Sons,
+Third Edition, 2002.
+3. Modern Power Electronics by P C Sen, S.Chand Publication 2013
+4. Fundamental of Power Electronics by S K Bhattacharya, Vikas Publishing, 1st edition-2005.
